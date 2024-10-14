@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johanna/Documents/Systemutveckling/Termin_5/OP2/Github/Github.csproj": {}
+    "/Users/johanna/Desktop/new_project/new.project/Github.csproj": {}
   },
   "projects": {
-    "/Users/johanna/Documents/Systemutveckling/Termin_5/OP2/Github/Github.csproj": {
+    "/Users/johanna/Desktop/new_project/new.project/Github.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johanna/Documents/Systemutveckling/Termin_5/OP2/Github/Github.csproj",
+        "projectUniqueName": "/Users/johanna/Desktop/new_project/new.project/Github.csproj",
         "projectName": "Github",
-        "projectPath": "/Users/johanna/Documents/Systemutveckling/Termin_5/OP2/Github/Github.csproj",
+        "projectPath": "/Users/johanna/Desktop/new_project/new.project/Github.csproj",
         "packagesPath": "/Users/johanna/.nuget/packages/",
-        "outputPath": "/Users/johanna/Documents/Systemutveckling/Termin_5/OP2/Github/obj/",
+        "outputPath": "/Users/johanna/Desktop/new_project/new.project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/johanna/.nuget/NuGet/NuGet.Config"
